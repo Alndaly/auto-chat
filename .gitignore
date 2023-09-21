@@ -1,0 +1,11 @@
+build/*
+dist/*
+tests/*
+auto-wechat.egg-info/*
+*.pyc
+*.pkl
+*.swp
+test.py
+auto-wechat.pkl
+QR.jpg
+.DS_Store
